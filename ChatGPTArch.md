@@ -1,3 +1,6 @@
+# Salesforce Architecture Diagram (Mermaid)
+
+```mermaid
 flowchart TB
     %% USER LAYER
     subgraph Users[End Users & Clients]
