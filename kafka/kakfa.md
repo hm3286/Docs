@@ -1,4 +1,4 @@
-
+```mermaid
 graph TD
   subgraph Producers
     PRD1["Producer 1"]
